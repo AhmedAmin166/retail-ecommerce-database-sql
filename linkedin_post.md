@@ -35,7 +35,7 @@
 - برمجت سكريبت بايثون لاختبار الـ Schema وحقن البيانات التجريبية والتأكد من صحة النتائج بنسبة 100%.
 
 📁 كود المشروع الكامل، ملفات الـ SQL، ومخطط الـ ERD متوفرين على GitHub:
-[ضع رابط المستودع الخاص بك هنا]
+https://github.com/AhmedAmin166/retail-ecommerce-database-sql
 
 يسعدني جداً معرفة رأيكم وملاحظاتكم على التصميم، وإيه المقاييس الإضافية اللي بتفضلوا تتبعها في مشاريع الـ Retail؟ 👇
 
@@ -70,7 +70,7 @@ Engineered complex analytical queries answering executive business questions usi
 - Developed an automated Python test runner to build, seed, and audit the database schema with zero errors.
 
 📂 Explore the full SQL source code, ERD architecture, and documentation on GitHub:
-[Insert your GitHub Repo Link Here]
+https://github.com/AhmedAmin166/retail-ecommerce-database-sql
 
 I'd love to hear your feedback on the architecture design!
 

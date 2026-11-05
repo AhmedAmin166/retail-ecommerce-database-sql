@@ -302,8 +302,8 @@ ORDER BY i.stock_quantity ASC;
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/retail-sql-database-portfolio.git
-   cd retail-sql-database-portfolio
+   git clone https://github.com/AhmedAmin166/retail-ecommerce-database-sql.git
+   cd retail-ecommerce-database-sql
    ```
 
 2. **Automated Run via Python:**
